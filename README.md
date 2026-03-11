@@ -31,5 +31,6 @@ This project implements and compares different advanced control laws, relying on
 * **Hardware:** Arduino (Microcontroller), DC Motor/Propeller, Rotary Encoder (for angle measurement).
 * **Control Theory:** Adaptive Control, Predictive Control, System Identification.
 * **Languages:** C++ (Arduino), MATLAB/Python (for offline data analysis and simulation).
+  
+![resize1-ezgif com-optimize](https://github.com/user-attachments/assets/d13bdbd1-de21-4533-9176-748621ea6824)
 
-<img width="258" height="242" alt="image" src="https://github.com/user-attachments/assets/81c75891-32ba-4ba1-8e6c-54dbba54b714](https://github.com/BA-Etchepareborda/adaptive-control-aeropendulum/blob/main/gifinvertido.gif" />
