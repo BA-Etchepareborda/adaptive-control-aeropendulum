@@ -31,6 +31,7 @@ This project implements and compares different advanced control laws, relying on
 * **Hardware:** Arduino (Microcontroller), DC Motor/Propeller, Rotary Encoder (for angle measurement).
 * **Control Theory:** Adaptive Control, Predictive Control, System Identification.
 * **Languages:** C++ (Arduino), MATLAB/Python (for offline data analysis and simulation).
-  
+
+## Results!!! (Indirect Adaptive STR)
 ![resize1-ezgif com-optimize](https://github.com/user-attachments/assets/d13bdbd1-de21-4533-9176-748621ea6824)
 
